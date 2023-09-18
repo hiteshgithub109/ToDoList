@@ -1,0 +1,1 @@
+## A To do list where you can add, update and delete the tasks you want to do. This project is do by me to learn basics of flask and how it works with database.
